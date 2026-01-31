@@ -1,8 +1,0 @@
-Based on this lab, why is using branches a powerful and safe way for a team of
-software engineers to collaborate on a single project? What problems might it
-prevent?
-
-Using branches is a powerful and safe collaboration method because it lets each developer work on features, bug fixes, or testing in isolation without affecting the main, stable codebase. 
-This separation allows teammates to test ideas, make mistakes, and iterate freely while the main branch remains deployable and reliable. 
-Branches also make it easier to review changes through pull requests, catch bugs early, and discuss improvements before merging. 
-By avoiding everyone committing directly to the same code at once, branching prevents problems like overwriting teammates’ work, introducing broken or untested code into production, and creating hard-to-resolve merge conflicts that slow down the team.
