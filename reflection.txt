@@ -1,0 +1,6 @@
+Based on this lab, why is using branches a powerful and safe way for a team of
+software engineers to collaborate on a single project? What problems might it
+prevent?
+
+Answer: Because branches allow co-op between many software developer while they are working simutaneously.
+More than that, it's allow engineer working in multiple directions.
